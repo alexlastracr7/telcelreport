@@ -1,0 +1,51 @@
+:root{
+
+    --color1 : #3165AD;
+    --color2 : #F4F6F7;
+    --error  : #F40A4D;
+    --invitados: #9BF7B1;
+    --deleted : #EE9E91;
+    --tabla: #6D9FE5;
+
+}
+
+.body{
+
+    background-color: var(--color2);
+    margin: 0px;
+    
+
+}
+.navegador{
+    background-color: var(--color1);
+    width: 100%;
+    
+}
+
+.telcelimage{
+    width: 8rem;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.linea1{
+     background-color: var(--tabla);
+}
+
+.tablita{
+    text-align: center;
+}
+.caja{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;    
+}
+.border{
+    text-align: center;
+}
+
+.tabla{
+    margin: 5%;
+    text-align: center;
+}
